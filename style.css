@@ -1,0 +1,17 @@
+body{
+    background-color: #f5d899c2;
+}
+#fb-root{display: block;
+    padding:30px;}
+
+h1{text-align: center;color: #fb802ec2;margin: 20px;}
+h5{text-align: center;}
+p{color: black;text-align: center;}
+h4{color: rgb(0, 0, 0);text-align: center;}
+
+
+  iframe{text-align: center;}
+  .fb-root{margin: 60px;}
+#footer {margin: 50px;}
+
+.navbar-brand{margin-left: 60px;}
